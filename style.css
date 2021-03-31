@@ -110,8 +110,10 @@ display:flex;
 padding-top:116px;
 text-align:center;
 }
-.main_text0 > .contents1{
-text-align:center;
+.main_text1 > .contents1{
+padding: 10px;
+text-align: center;
+margin: auto;
 }
 
 
@@ -143,6 +145,8 @@ letter-spacing:-1px;
 .contents3{
 font-size:14px;
 font-weight:100;
+margin: auto;
+text-align: center;
 }
 .more{
 width:100px;
